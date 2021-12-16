@@ -1,0 +1,14 @@
+D:\Mirza\Week1\ConsoleApp1\bin\Debug\netcoreapp3.1\PlusMinus.exe
+D:\Mirza\Week1\ConsoleApp1\bin\Debug\netcoreapp3.1\PlusMinus.deps.json
+D:\Mirza\Week1\ConsoleApp1\bin\Debug\netcoreapp3.1\PlusMinus.runtimeconfig.json
+D:\Mirza\Week1\ConsoleApp1\bin\Debug\netcoreapp3.1\PlusMinus.runtimeconfig.dev.json
+D:\Mirza\Week1\ConsoleApp1\bin\Debug\netcoreapp3.1\PlusMinus.dll
+D:\Mirza\Week1\ConsoleApp1\bin\Debug\netcoreapp3.1\PlusMinus.pdb
+D:\Mirza\Week1\ConsoleApp1\obj\Debug\netcoreapp3.1\PlusMinus.csproj.AssemblyReference.cache
+D:\Mirza\Week1\ConsoleApp1\obj\Debug\netcoreapp3.1\PlusMinus.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mirza\Week1\ConsoleApp1\obj\Debug\netcoreapp3.1\PlusMinus.AssemblyInfoInputs.cache
+D:\Mirza\Week1\ConsoleApp1\obj\Debug\netcoreapp3.1\PlusMinus.AssemblyInfo.cs
+D:\Mirza\Week1\ConsoleApp1\obj\Debug\netcoreapp3.1\PlusMinus.csproj.CoreCompileInputs.cache
+D:\Mirza\Week1\ConsoleApp1\obj\Debug\netcoreapp3.1\PlusMinus.dll
+D:\Mirza\Week1\ConsoleApp1\obj\Debug\netcoreapp3.1\PlusMinus.pdb
+D:\Mirza\Week1\ConsoleApp1\obj\Debug\netcoreapp3.1\PlusMinus.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\Mirza\Week1\MiniMaxSum\bin\Debug\netcoreapp3.1\MiniMaxSum.exe
+D:\Mirza\Week1\MiniMaxSum\bin\Debug\netcoreapp3.1\MiniMaxSum.deps.json
+D:\Mirza\Week1\MiniMaxSum\bin\Debug\netcoreapp3.1\MiniMaxSum.runtimeconfig.json
+D:\Mirza\Week1\MiniMaxSum\bin\Debug\netcoreapp3.1\MiniMaxSum.runtimeconfig.dev.json
+D:\Mirza\Week1\MiniMaxSum\bin\Debug\netcoreapp3.1\MiniMaxSum.dll
+D:\Mirza\Week1\MiniMaxSum\bin\Debug\netcoreapp3.1\MiniMaxSum.pdb
+D:\Mirza\Week1\MiniMaxSum\obj\Debug\netcoreapp3.1\MiniMaxSum.csproj.AssemblyReference.cache
+D:\Mirza\Week1\MiniMaxSum\obj\Debug\netcoreapp3.1\MiniMaxSum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mirza\Week1\MiniMaxSum\obj\Debug\netcoreapp3.1\MiniMaxSum.AssemblyInfoInputs.cache
+D:\Mirza\Week1\MiniMaxSum\obj\Debug\netcoreapp3.1\MiniMaxSum.AssemblyInfo.cs
+D:\Mirza\Week1\MiniMaxSum\obj\Debug\netcoreapp3.1\MiniMaxSum.csproj.CoreCompileInputs.cache
+D:\Mirza\Week1\MiniMaxSum\obj\Debug\netcoreapp3.1\MiniMaxSum.dll
+D:\Mirza\Week1\MiniMaxSum\obj\Debug\netcoreapp3.1\MiniMaxSum.pdb
+D:\Mirza\Week1\MiniMaxSum\obj\Debug\netcoreapp3.1\MiniMaxSum.genruntimeconfig.cache
