@@ -1,0 +1,14 @@
+D:\Mirza\Week1\TimeConversion\bin\Debug\netcoreapp3.1\TimeConversion.exe
+D:\Mirza\Week1\TimeConversion\bin\Debug\netcoreapp3.1\TimeConversion.deps.json
+D:\Mirza\Week1\TimeConversion\bin\Debug\netcoreapp3.1\TimeConversion.runtimeconfig.json
+D:\Mirza\Week1\TimeConversion\bin\Debug\netcoreapp3.1\TimeConversion.runtimeconfig.dev.json
+D:\Mirza\Week1\TimeConversion\bin\Debug\netcoreapp3.1\TimeConversion.dll
+D:\Mirza\Week1\TimeConversion\bin\Debug\netcoreapp3.1\TimeConversion.pdb
+D:\Mirza\Week1\TimeConversion\obj\Debug\netcoreapp3.1\TimeConversion.csproj.AssemblyReference.cache
+D:\Mirza\Week1\TimeConversion\obj\Debug\netcoreapp3.1\TimeConversion.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mirza\Week1\TimeConversion\obj\Debug\netcoreapp3.1\TimeConversion.AssemblyInfoInputs.cache
+D:\Mirza\Week1\TimeConversion\obj\Debug\netcoreapp3.1\TimeConversion.AssemblyInfo.cs
+D:\Mirza\Week1\TimeConversion\obj\Debug\netcoreapp3.1\TimeConversion.csproj.CoreCompileInputs.cache
+D:\Mirza\Week1\TimeConversion\obj\Debug\netcoreapp3.1\TimeConversion.dll
+D:\Mirza\Week1\TimeConversion\obj\Debug\netcoreapp3.1\TimeConversion.pdb
+D:\Mirza\Week1\TimeConversion\obj\Debug\netcoreapp3.1\TimeConversion.genruntimeconfig.cache

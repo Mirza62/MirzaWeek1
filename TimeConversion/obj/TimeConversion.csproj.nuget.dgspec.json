@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Mirza\\Week1\\MiniMaxSum\\MiniMaxSum.csproj": {}
+    "D:\\Mirza\\Week1\\TimeConversion\\TimeConversion.csproj": {}
   },
   "projects": {
-    "D:\\Mirza\\Week1\\MiniMaxSum\\MiniMaxSum.csproj": {
+    "D:\\Mirza\\Week1\\TimeConversion\\TimeConversion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Mirza\\Week1\\MiniMaxSum\\MiniMaxSum.csproj",
-        "projectName": "MiniMaxSum",
-        "projectPath": "D:\\Mirza\\Week1\\MiniMaxSum\\MiniMaxSum.csproj",
+        "projectUniqueName": "D:\\Mirza\\Week1\\TimeConversion\\TimeConversion.csproj",
+        "projectName": "TimeConversion",
+        "projectPath": "D:\\Mirza\\Week1\\TimeConversion\\TimeConversion.csproj",
         "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "D:\\Mirza\\Week1\\MiniMaxSum\\obj\\",
+        "outputPath": "D:\\Mirza\\Week1\\TimeConversion\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",
